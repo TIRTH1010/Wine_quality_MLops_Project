@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/64595b942c32436f92c61b9d483bb175/artifacts
+end_time: 1706867436770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64595b942c32436f92c61b9d483bb175
+run_name: abundant-crane-55
+run_uuid: 64595b942c32436f92c61b9d483bb175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867430308
+status: 3
+tags: []
+user_id: tirth

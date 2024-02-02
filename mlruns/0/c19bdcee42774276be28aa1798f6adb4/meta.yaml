@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/c19bdcee42774276be28aa1798f6adb4/artifacts
+end_time: 1706867296242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c19bdcee42774276be28aa1798f6adb4
+run_name: marvelous-stork-653
+run_uuid: c19bdcee42774276be28aa1798f6adb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867290178
+status: 3
+tags: []
+user_id: tirth

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/d6dbd8c2de54481bb9c5382ad3ed48c7/artifacts
+end_time: 1706867240242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6dbd8c2de54481bb9c5382ad3ed48c7
+run_name: rare-squid-319
+run_uuid: d6dbd8c2de54481bb9c5382ad3ed48c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867233933
+status: 3
+tags: []
+user_id: tirth

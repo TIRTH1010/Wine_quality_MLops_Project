@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/f0892acc4bb24a01ac044f29a23f3901/artifacts
+end_time: 1706867422568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0892acc4bb24a01ac044f29a23f3901
+run_name: handsome-toad-196
+run_uuid: f0892acc4bb24a01ac044f29a23f3901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867416393
+status: 3
+tags: []
+user_id: tirth

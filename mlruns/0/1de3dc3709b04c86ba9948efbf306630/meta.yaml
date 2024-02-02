@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/1de3dc3709b04c86ba9948efbf306630/artifacts
+end_time: 1706867451012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1de3dc3709b04c86ba9948efbf306630
+run_name: welcoming-sponge-99
+run_uuid: 1de3dc3709b04c86ba9948efbf306630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867444274
+status: 3
+tags: []
+user_id: tirth

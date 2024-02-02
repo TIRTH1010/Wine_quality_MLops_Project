@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/1eb13662cdd049a59ab6240788acc304/artifacts
+end_time: 1706865807309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eb13662cdd049a59ab6240788acc304
+run_name: enchanting-goose-743
+run_uuid: 1eb13662cdd049a59ab6240788acc304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706865794995
+status: 4
+tags: []
+user_id: tirth

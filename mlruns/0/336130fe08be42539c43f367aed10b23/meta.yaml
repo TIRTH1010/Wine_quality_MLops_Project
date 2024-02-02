@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/336130fe08be42539c43f367aed10b23/artifacts
+end_time: 1706867176385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 336130fe08be42539c43f367aed10b23
+run_name: sneaky-squirrel-359
+run_uuid: 336130fe08be42539c43f367aed10b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867167955
+status: 3
+tags: []
+user_id: tirth

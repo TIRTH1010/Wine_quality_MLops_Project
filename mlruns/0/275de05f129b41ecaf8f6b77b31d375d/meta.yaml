@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/275de05f129b41ecaf8f6b77b31d375d/artifacts
+end_time: 1706867408287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 275de05f129b41ecaf8f6b77b31d375d
+run_name: puzzled-newt-837
+run_uuid: 275de05f129b41ecaf8f6b77b31d375d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867402145
+status: 3
+tags: []
+user_id: tirth

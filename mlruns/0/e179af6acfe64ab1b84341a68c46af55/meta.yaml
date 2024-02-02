@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/e179af6acfe64ab1b84341a68c46af55/artifacts
+end_time: 1706867393993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e179af6acfe64ab1b84341a68c46af55
+run_name: puzzled-penguin-338
+run_uuid: e179af6acfe64ab1b84341a68c46af55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867387772
+status: 3
+tags: []
+user_id: tirth

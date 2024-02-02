@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/fd0aba6cd1c94c51941a18f2cec38fe3/artifacts
+end_time: 1706867254241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd0aba6cd1c94c51941a18f2cec38fe3
+run_name: worried-crow-812
+run_uuid: fd0aba6cd1c94c51941a18f2cec38fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867248159
+status: 3
+tags: []
+user_id: tirth

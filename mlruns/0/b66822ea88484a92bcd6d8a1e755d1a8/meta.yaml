@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/b66822ea88484a92bcd6d8a1e755d1a8/artifacts
+end_time: 1706867337601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b66822ea88484a92bcd6d8a1e755d1a8
+run_name: smiling-fawn-87
+run_uuid: b66822ea88484a92bcd6d8a1e755d1a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867331375
+status: 3
+tags: []
+user_id: tirth

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/764ac4f326674ead9996c735843d4da8/artifacts
+end_time: 1706867466943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 764ac4f326674ead9996c735843d4da8
+run_name: rogue-dolphin-430
+run_uuid: 764ac4f326674ead9996c735843d4da8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867458678
+status: 3
+tags: []
+user_id: tirth

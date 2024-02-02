@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/c15c3df7d1a543bfa99d67ca389300fe/artifacts
+end_time: 1706867486270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c15c3df7d1a543bfa99d67ca389300fe
+run_name: fun-shoat-872
+run_uuid: c15c3df7d1a543bfa99d67ca389300fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867476113
+status: 3
+tags: []
+user_id: tirth

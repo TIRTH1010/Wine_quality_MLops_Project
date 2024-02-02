@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/37f53a31ff5c4701869532fe6644e083/artifacts
+end_time: 1706867380489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37f53a31ff5c4701869532fe6644e083
+run_name: likeable-lamb-17
+run_uuid: 37f53a31ff5c4701869532fe6644e083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867374011
+status: 3
+tags: []
+user_id: tirth

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/f18eab5e458d4413bf07ed58ad9f2db3/artifacts
+end_time: 1706867282417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18eab5e458d4413bf07ed58ad9f2db3
+run_name: puzzled-shrew-42
+run_uuid: f18eab5e458d4413bf07ed58ad9f2db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867276048
+status: 3
+tags: []
+user_id: tirth

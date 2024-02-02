@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Ineuron%20End%20to%20End/Mlops/mlflow/mlruns/0/ef908eb623c246a08a04744bd065886f/artifacts
+end_time: 1706867503517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef908eb623c246a08a04744bd065886f
+run_name: bedecked-toad-262
+run_uuid: ef908eb623c246a08a04744bd065886f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706867495147
+status: 3
+tags: []
+user_id: tirth
